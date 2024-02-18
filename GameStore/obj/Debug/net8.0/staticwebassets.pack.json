@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\obj\\Debug\\net8.0\\compressed\\xwcmfqnocg.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.styles.css",
+      "PackagePath": "staticwebassets\\GameStore.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\wwwroot\\css\\Custom.css",
+      "PackagePath": "staticwebassets\\css\\Custom.css"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\wwwroot\\css\\NavStyles.css",
+      "PackagePath": "staticwebassets\\css\\NavStyles.css"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\GameStore\\gamestore\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameStore.props",
+      "PackagePath": "build\\GameStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameStore.props",
+      "PackagePath": "buildMultiTargeting\\GameStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameStore.props",
+      "PackagePath": "buildTransitive\\GameStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
